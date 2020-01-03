@@ -1,8 +1,8 @@
 <?php
 
 
-/*queria deixar esse valores em alguma tabela e fazer a compraração
-com as respotas do aluno mas não consegui fazer essa comparaçõa.
+/*queria deixar esse valores em alguma tabela de banco de dados e fazer a compraração
+com as respotas do aluno mas não consegui. Cheguei a criar as tabelas e a conexão com o banco mas não consegui trazer os dados pra tela.
 Então, como teste, fiz assim mesmmo, com as respostas pre defindas nesse codigo*/
 
 $resp=array("","","","","");
