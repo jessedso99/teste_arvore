@@ -35,37 +35,5 @@ $pontos=0;
 	}
 	echo"<strong>voce acertou $pontos% da prova</strong>";
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*$user_resp="INSERT INTO respostas(str_resp) VALUES ('$resp_final')";
-$resultado_user=mysqli_query($conn, $user_resp);
-$query="SELECT str_resp FROM admin_resp";
-$result=mysqli_query($conn, $query);
-$result_array = mysqli_fetch_assoc($result);
-echo "A respostas corretas são:<br>";
-print_r($result_array);*/
 ?>
 	
